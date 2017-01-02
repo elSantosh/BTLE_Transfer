@@ -82,6 +82,7 @@
     
     // And somewhere to store the incoming data
     _data = [[NSMutableData alloc] init];
+ //I made some changes
 }
 
 
